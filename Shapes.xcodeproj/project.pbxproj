@@ -103,7 +103,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3451EBEE16CB2A1100980894 /* libShapes copy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libShapes copy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3451EBEE16CB2A1100980894 /* libShapesiOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libShapesiOS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		D44691AB1659792F009A23C4 /* libShapes.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libShapes.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		D44691B216597943009A23C4 /* Shape.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Shape.c; sourceTree = "<group>"; };
 		D44691B8165979A5009A23C4 /* Shape.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Shape.h; sourceTree = "<group>"; };
@@ -222,7 +222,7 @@
 				D44691FE1659BC7D009A23C4 /* CFShapeTester */,
 				D44692101659BE17009A23C4 /* CFShapeTester2 */,
 				D44692201659C047009A23C4 /* CFShapeTester3 */,
-				3451EBEE16CB2A1100980894 /* libShapes copy.a */,
+				3451EBEE16CB2A1100980894 /* libShapesiOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -368,7 +368,7 @@
 			);
 			name = ShapesiOS;
 			productName = Shapes;
-			productReference = 3451EBEE16CB2A1100980894 /* libShapes copy.a */;
+			productReference = 3451EBEE16CB2A1100980894 /* libShapesiOS.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		D44691AA1659792F009A23C4 /* Shapes */ = {
@@ -578,8 +578,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				EXECUTABLE_PREFIX = lib;
-				PRODUCT_NAME = "Shapes copy";
-				VALID_ARCHS = "arm7s arm7";
+				PRODUCT_NAME = ShapesiOS;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -588,8 +589,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				EXECUTABLE_PREFIX = lib;
-				PRODUCT_NAME = "Shapes copy";
-				VALID_ARCHS = "arm7s arm7";
+				PRODUCT_NAME = ShapesiOS;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
 			};
 			name = Release;
 		};
