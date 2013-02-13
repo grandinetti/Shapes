@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3451EBD616CB2A0600980894 /* Shape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691B8165979A5009A23C4 /* Shape.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBD716CB2A0600980894 /* Square.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691BB165985F6009A23C4 /* Square.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBD816CB2A0600980894 /* KFType.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691C516599A27009A23C4 /* KFType.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBD916CB2A0600980894 /* KFShape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691C816599A86009A23C4 /* KFShape.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBDA16CB2A0600980894 /* CFRuntime.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691D71659AE21009A23C4 /* CFRuntime.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBDB16CB2A0600980894 /* CFShape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691D51659ADC8009A23C4 /* CFShape.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBDE16CB2A1100980894 /* Shape.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691B216597943009A23C4 /* Shape.c */; };
+		3451EBDF16CB2A1100980894 /* Square.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691B916598559009A23C4 /* Square.c */; };
+		3451EBE016CB2A1100980894 /* KFType.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691C2165999C0009A23C4 /* KFType.c */; };
+		3451EBE116CB2A1100980894 /* KFShape.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691C616599A5A009A23C4 /* KFShape.c */; };
+		3451EBE216CB2A1100980894 /* CFShape.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691D21659ADBD009A23C4 /* CFShape.c */; };
+		3451EBE516CB2A1100980894 /* Shape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691B8165979A5009A23C4 /* Shape.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBE616CB2A1100980894 /* Square.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691BB165985F6009A23C4 /* Square.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBE716CB2A1100980894 /* KFType.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691C516599A27009A23C4 /* KFType.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBE816CB2A1100980894 /* KFShape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691C816599A86009A23C4 /* KFShape.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBE916CB2A1100980894 /* CFRuntime.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691D71659AE21009A23C4 /* CFRuntime.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3451EBEA16CB2A1100980894 /* CFShape.h in Headers */ = {isa = PBXBuildFile; fileRef = D44691D51659ADC8009A23C4 /* CFShape.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D44691B316597943009A23C4 /* Shape.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691B216597943009A23C4 /* Shape.c */; };
 		D44691BA16598559009A23C4 /* Square.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691B916598559009A23C4 /* Square.c */; };
 		D44691C3165999C0009A23C4 /* KFType.c in Sources */ = {isa = PBXBuildFile; fileRef = D44691C2165999C0009A23C4 /* KFType.c */; };
@@ -86,6 +103,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3451EBEE16CB2A1100980894 /* libShapesiOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libShapesiOS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		D44691AB1659792F009A23C4 /* libShapes.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libShapes.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		D44691B216597943009A23C4 /* Shape.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Shape.c; sourceTree = "<group>"; };
 		D44691B8165979A5009A23C4 /* Shape.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Shape.h; sourceTree = "<group>"; };
@@ -119,6 +137,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		3451EBE316CB2A1100980894 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D44691A81659792F009A23C4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -197,6 +222,7 @@
 				D44691FE1659BC7D009A23C4 /* CFShapeTester */,
 				D44692101659BE17009A23C4 /* CFShapeTester2 */,
 				D44692201659C047009A23C4 /* CFShapeTester3 */,
+				3451EBEE16CB2A1100980894 /* libShapesiOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -299,16 +325,52 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		3451EBE416CB2A1100980894 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3451EBE516CB2A1100980894 /* Shape.h in Headers */,
+				3451EBE616CB2A1100980894 /* Square.h in Headers */,
+				3451EBE716CB2A1100980894 /* KFType.h in Headers */,
+				3451EBE816CB2A1100980894 /* KFShape.h in Headers */,
+				3451EBE916CB2A1100980894 /* CFRuntime.h in Headers */,
+				3451EBEA16CB2A1100980894 /* CFShape.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D44691A91659792F009A23C4 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3451EBD616CB2A0600980894 /* Shape.h in Headers */,
+				3451EBD716CB2A0600980894 /* Square.h in Headers */,
+				3451EBD816CB2A0600980894 /* KFType.h in Headers */,
+				3451EBD916CB2A0600980894 /* KFShape.h in Headers */,
+				3451EBDA16CB2A0600980894 /* CFRuntime.h in Headers */,
+				3451EBDB16CB2A0600980894 /* CFShape.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		3451EBDC16CB2A1100980894 /* ShapesiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3451EBEB16CB2A1100980894 /* Build configuration list for PBXNativeTarget "ShapesiOS" */;
+			buildPhases = (
+				3451EBDD16CB2A1100980894 /* Sources */,
+				3451EBE316CB2A1100980894 /* Frameworks */,
+				3451EBE416CB2A1100980894 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ShapesiOS;
+			productName = Shapes;
+			productReference = 3451EBEE16CB2A1100980894 /* libShapesiOS.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 		D44691AA1659792F009A23C4 /* Shapes */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D44691AF1659792F009A23C4 /* Build configuration list for PBXNativeTarget "Shapes" */;
@@ -438,11 +500,24 @@
 				D44691FD1659BC7D009A23C4 /* CFShapeTester */,
 				D446920F1659BE17009A23C4 /* CFShapeTester2 */,
 				D446921F1659C047009A23C4 /* CFShapeTester3 */,
+				3451EBDC16CB2A1100980894 /* ShapesiOS */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		3451EBDD16CB2A1100980894 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3451EBDE16CB2A1100980894 /* Shape.c in Sources */,
+				3451EBDF16CB2A1100980894 /* Square.c in Sources */,
+				3451EBE016CB2A1100980894 /* KFType.c in Sources */,
+				3451EBE116CB2A1100980894 /* KFShape.c in Sources */,
+				3451EBE216CB2A1100980894 /* CFShape.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D44691A71659792F009A23C4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -498,6 +573,28 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		3451EBEC16CB2A1100980894 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = ShapesiOS;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Debug;
+		};
+		3451EBED16CB2A1100980894 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = ShapesiOS;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Release;
+		};
 		D44691AD1659792F009A23C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -644,6 +741,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		3451EBEB16CB2A1100980894 /* Build configuration list for PBXNativeTarget "ShapesiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3451EBEC16CB2A1100980894 /* Debug */,
+				3451EBED16CB2A1100980894 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		D44691A51659792F009A23C4 /* Build configuration list for PBXProject "Shapes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
