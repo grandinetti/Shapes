@@ -1,0 +1,112 @@
+TCFShapeTester2
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester2 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005092FFBE00000000000000AA
+t1351811006
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000505A259F0000000000080504
+t1348085151
+s525572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000505A259F0000000000000B8F
+t1348085151
+s2959
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c00000000505A25A300000000000066C2
+t1348085155
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505A25A40000000000004523
+t1348085156
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000505A25A40000000000003089
+t1348085156
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/unistd.h
+c00000000505A25A40000000000006762
+t1348085156
+s26466
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/4.1/include/stdbool.h
+c00000000505A25A400000000000006C2
+t1348085156
+s1730
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.h
+c0000000050A9877500000000000003EA
+t1353287541
+s1002
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c
+c0000000050A987D300000000000002DB
+t1353287635
+s731
+i<CoreFoundation/CoreFoundation.h>
+i<stdlib.h>
+i<stdio.h>
+i<stdbool.h>
+i<unistd.h>
+i<math.h>
+i"CFShape.h"
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/CFShapeTester2.LinkFileList
+c0000000050A987D400000000000000AE
+t1353287636
+s174
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester2
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+c0000000050A98787000000000000B168
+t1353287559
+s45416
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdf51f354bf59b641^58fff354bf59b641^---0#1#0#--18"Check dependencies36"EC1A756A-5F96-47B9-AC63-0C56F76EBB74-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374980436.955267
+e374980437.020688
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c2bc3f454bf59b641^234c0555bf59b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c0000000000000000^3314"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o CFShapeTester2/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/CFShapeTester2-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/CFShapeTester2-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/CFShapeTester2-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/CFShapeTester2-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester2/main.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/main.o36"4F151FE0-F704-472C-8518-4DD5597E4FB7-
+
+CLd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester2 normal x86_64
+s374980437.027646
+e374980437.049125
+r1
+xLd
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester2
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester2b3250755bf59b641^57960c55bf59b641^---0#0#0#--1011"Ld DerivedData/Shapes/Build/Products/Debug/CFShapeTester2 normal x86_64    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -filelist /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester2.build/Objects-normal/x86_64/CFShapeTester2.LinkFileList -mmacosx-version-min=10.8 -framework CoreFoundation -lShapes -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester236"C49F6F77-A316-4A66-88A0-AF4E7B97DC96-
+

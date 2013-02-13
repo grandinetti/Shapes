@@ -1,0 +1,80 @@
+TKFShapeTester
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTester normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005092FFBE00000000000000AA
+t1351811006
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505A25A40000000000004523
+t1348085156
+s17699
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/KFShapeTester.LinkFileList
+c0000000050A983B500000000000000AD
+t1353286581
+s173
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTester
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+c0000000050A983B5000000000000AC18
+t1353286581
+s44056
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c
+c0000000050A9838000000000000001F8
+t1353286528
+s504
+i<stdio.h>
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies240c4f35bb59b641^ca6d4f35bb59b641^---0#1#0#--18"Check dependencies36"C05B9287-2A16-4CB3-88F5-F61F7C3BA064-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374979381.312145
+e374979381.340258
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c:20:5: warning: implicit declaration of function 'KFShapeShow' is invalid in C99 [-Wimplicit-function-declaration]
+o    KFShapeShow(shape);
+o    ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.cb4055035bb59b641^041b5735bb59b641^-252"/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c:20:5: warning: implicit declaration of function 'KFShapeShow' is invalid in C99 [-Wimplicit-function-declaration]    KFShapeShow(shape);    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@64"Implicit declaration of function 'KFShapeShow' is invalid in C99-374979381#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@102"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c0000000000000000^19#4#19#4#360#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c0000000000000000^3298"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o KFShapeTester/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/KFShapeTester-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/KFShapeTester-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/KFShapeTester-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/KFShapeTester-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShapeTester/main.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/main.o36"7B743BD8-76AB-494E-90DC-33634B40CA1B-
+
+CLd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTester normal x86_64
+s374979381.346754
+e374979381.367947
+r0
+xLd
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTester
+xnormal
+xx86_64
+oUndefined symbols for architecture x86_64:
+o  "_KFShapeShow", referenced from:
+o      _main in main.o
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTesterb5dd5835bb59b641^3c325e35bb59b641^-228"Undefined symbols for architecture x86_64:  "_KFShapeShow", referenced from:      _main in main.old: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@32""_KFShapeShow", referenced from:-374979381#43#35#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-374979381#78#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"Symbol(s) not found for architecture x86_64-374979381#100#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-374979381#148#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#0#--981"Ld DerivedData/Shapes/Build/Products/Debug/KFShapeTester normal x86_64    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -filelist /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/KFShapeTester.build/Objects-normal/x86_64/KFShapeTester.LinkFileList -mmacosx-version-min=10.8 -lShapes -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/KFShapeTester36"0D8D301B-862A-4629-937A-5A98D1AA9C60-
+

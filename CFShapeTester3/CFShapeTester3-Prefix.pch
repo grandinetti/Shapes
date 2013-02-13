@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CFShapeTester3' target in the 'CFShapeTester3' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

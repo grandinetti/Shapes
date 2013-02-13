@@ -1,0 +1,475 @@
+TShapes
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005107E8D900000000000000AA
+t1359472857
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c00000000505A25A300000000000066C2
+t1348085155
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505A25A40000000000004523
+t1348085156
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000505A25A40000000000003089
+t1348085156
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/unistd.h
+c00000000505A25A40000000000006762
+t1348085156
+s26466
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/4.1/include/stdbool.h
+c00000000505A25A400000000000006C2
+t1348085156
+s1730
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/4.2/include/stdbool.h
+c000000005107E8B700000000000006C2
+t1359472823
+s1730
+
+N/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+t2
+s0
+
+N/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList
+c0000000050A94DC6000000000000008C
+t1353272774
+s140
+
+N/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+t2
+s0
+
+N/Users/philip/Documents/Develop/Shapes/Shape.c
+c00000000000000000000000000000000
+t2
+s0
+i<stdio.h>
+
+N/Users/philip/Documents/Develop/Shapes/Shape.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFRuntime.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o
+t1353332328
+s13184
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o
+t1353332328
+s9380
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o
+t1353283567
+s3960
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KTShape.o
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+t1353287559
+s8828
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList
+c0000000050A977EF0000000000000349
+t1353283567
+s841
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o
+t1353287559
+s8780
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+t1353332328
+s46040
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KTShape.c
+c0000000050A963BD00000000000009D7
+t1353278397
+s2519
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c
+c00000000000000000000000000000000
+t2
+s0
+i<stdlib.h>
+i<stdio.h>
+i<stdbool.h>
+i<unistd.h>
+i<math.h>
+i"Shape.h"
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFRuntime.h
+c0000000050A976A3000000000000465F
+t1353283235
+s18015
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c
+c00000000511AC66B0000000000001032
+t1360709227
+s4146
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.h
+c0000000050A98AA3000000000000043F
+t1353288355
+s1087
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o
+t1360709247
+s13200
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o
+t1360708882
+s9364
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o
+t1360708882
+s3952
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+t1360708882
+s8820
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList
+c00000000511AC5120000000000000349
+t1360708882
+s841
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o
+t1360709908
+s8772
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+t1360709908
+s46016
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c
+c0000000050AA36290000000000000C84
+t1353332265
+s3204
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.h
+c0000000050A988960000000000000443
+t1353287830
+s1091
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c
+c0000000050A9761F0000000000000316
+t1353283103
+s790
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.h
+c0000000050A9688F000000000000015D
+t1353279631
+s349
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c
+c0000000050A987870000000000000B01
+t1353287559
+s2817
+i<stdlib.h>
+i<stdio.h>
+i<stdbool.h>
+i<unistd.h>
+i<math.h>
+i"Shape.h"
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.h
+c0000000050A987870000000000000410
+t1353287559
+s1040
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c
+c00000000511AC8F50000000000000A81
+t1360709877
+s2689
+
+N/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.h
+c0000000050A98259000000000000042B
+t1353286233
+s1067
+
+CBuild AST from /Users/philip/Documents/Develop/Shapes/Shape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KTShape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c
+r0
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese52a921501cbb641^88f1921501cbb641^---0#1#0#--18"Check dependencies36"0016A0FB-8B4C-45E6-8E5A-F89D4593AAA4-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s375025128.564549
+e375025128.670057
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c37a990e86d5ab641^488babe86d5ab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c0000000000000000^3190"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o CFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShape.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o36"15C7CB1D-9D8A-4D96-8118-D17988C7AAF1-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382402046.811767
+e382402047.056901
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c0ceacffefdcab641^58900efffdcab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c0000000000000000^3274"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o CFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.dia -c /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/CFShape.c -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/CFShape.o36"10248659-7862-4AC7-A837-116CA6DA5F22-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s375025128.563485
+e375025128.621861
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.cb76190e86d5ab641^decca0e86d5ab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c0000000000000000^3190"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o KFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFShape.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o36"D9D3CC2C-0B8B-4C54-BA7E-FDE8A1907EB1-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382401682.400266
+e382401682.608597
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.cab5d6792fccab641^b6d69b92fccab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c0000000000000000^3274"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o KFShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.dia -c /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFShape.c -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFShape.o36"6BDF1F49-847F-4EF6-BCEE-C8A546B9EC9C-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374976367.479057
+e374976367.758615
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c54c77a6faf59b641^9834c26faf59b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c0000000000000000^3184"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o KFType.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KFType.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o36"653A631D-0ADD-495E-8236-6809F2A00450-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382401682.400196
+e382401682.608586
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c145d6792fccab641^d5cf9b92fccab641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c0000000000000000^3268"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o KFType.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.dia -c /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/KFType.c -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KFType.o36"71761787-F817-472B-89D8-A90498433AB8-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/KTShape.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/KTShape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o /Users/philip/Documents/Develop/Shapes/Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374965575.021799
+e374965575.429785
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+x/Users/philip/Documents/Develop/Shapes/Shape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/philip/Documents/Develop/Shapes/Shape.c12300a478559b641^14056e478559b641^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/philip/Documents/Develop/Shapes/Shape.c0000000000000000^2827"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Develop/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.d --serialize-diagnostics /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.dia -c /Users/philip/Documents/Develop/Shapes/Shape.c -o /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o36"DD80580C-2E59-4177-867E-0F8AC71DA8AC-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374980359.677221
+e374980359.914568
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c3d80ad07bf59b641^512dea07bf59b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c0000000000000000^3178"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Shape.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o36"8DC72A35-29EC-4474-B712-96BD79A909E2-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382401682.400213
+e382401682.608621
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c075c6792fccab641^a1db9b92fccab641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c0000000000000000^3262"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o Shape.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.dia -c /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Shape.c -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shape.o36"FEE36BFB-81C7-4A11-A165-4BA628524C3E-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s374980359.677238
+e374980359.914465
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c9d81ad07bf59b641^4f22ea07bf59b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c0000000000000000^3184"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o Square.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/Square.c -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o36"0F1428DE-9B52-4DB6-A8CF-5ECBB54702FA-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382402708.365384
+e382402708.543932
+r1
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c56d55f9400cbb641^de3e8b9400cbb641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c0000000000000000^3268"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o Square.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Shapes-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.dia -c /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/Square.c -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Square.o36"E8C49879-5F2A-4BB0-BA60-C6C2B641D8E5-
+
+CLibtool /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64
+s374965575.437171
+e374965575.452162
+r1
+xLibtool
+x/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_648f1d70478559b641^90c073478559b641^---0#0#0#--734"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64    cd /Users/philip/Documents/Develop/Shapes    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug -filelist /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList -o /Users/philip/Documents/Develop/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a36"E7EBE19D-AE15-43F0-8FEC-CD73A554FACE-
+
+CLibtool /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64
+s375025128.676999
+e375025128.690311
+r1
+xLibtool
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64f162ade86d5ab641^24b9b0e86d5ab641^---0#0#0#--842"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -filelist /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a36"C31AA191-AD56-4CC4-93BF-58FA140D33B7-
+
+CLibtool /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64
+s382402708.550913
+e382402708.563452
+r1
+xLibtool
+x/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_644c1c8d9400cbb641^793d909400cbb641^---0#0#0#--842"Libtool DerivedData/Shapes/Build/Products/Debug/libShapes.a normal x86_64    cd /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -filelist /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/Shapes.build/Objects-normal/x86_64/Shapes.LinkFileList -o /Users/philip/Documents/Science/Talks/2013/2013-02-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a36"1AD65BCF-EB69-455A-87C5-A07E287DBA61-
+

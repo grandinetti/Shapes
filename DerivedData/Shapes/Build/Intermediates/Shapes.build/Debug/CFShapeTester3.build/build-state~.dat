@@ -1,0 +1,137 @@
+TCFShapeTester3
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth CFShapeTester3/CFShapeTester3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005092FFBE00000000000000AA
+t1351811006
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A25A000000000000C39B8
+t1348085152
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505A25A000000000000015F7
+t1348085152
+s5623
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/CFShapeTester3-Prefix.pch
+c0000000050A988C700000000000000A9
+t1353287879
+s169
+i<Foundation/Foundation.h>
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m
+c0000000050A9894C000000000000037B
+t1353288012
+s891
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/CFShapeTester3.LinkFileList
+c0000000050A9895700000000000000AE
+t1353288023
+s174
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester3
+t2
+s0
+
+N/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/libShapes.a
+c0000000050A98896000000000000B168
+t1353287830
+s45416
+
+CBuild AST from /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd8103cd7c059b641^5fce3cd7c059b641^---0#1#0#--18"Check dependencies36"FF661346-1CF2-4B7A-88E2-5FD09A6EBB61-
+
+CCompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374980824.243788
+e374980824.520239
+r0
+xCompileC
+xDerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:13: error: unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?
+o            CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);
+o            ^~~~~~~~~~~~~~~~~
+o            HIMutableShapeRef
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h:69:41: note: 'HIMutableShapeRef' declared here
+otypedef struct __HIShape*               HIMutableShapeRef;
+o                                        ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:39: warning: implicit declaration of function 'CFShapeCreateMutable' is invalid in C99 [-Wimplicit-function-declaration]
+o            CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);
+o                                      ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:31: warning: incompatible integer to pointer conversion initializing 'HIMutableShapeRef' (aka 'struct __HIShape *') with an expression of type 'int'; 
+o            CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);
+o                              ^       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:19:13: warning: implicit declaration of function 'CFShapeShow' is invalid in C99 [-Wimplicit-function-declaration]
+o            CFShapeShow(shape);
+o            ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:20:30: warning: incompatible pointer types sending 'HIMutableShapeRef' (aka 'struct __HIShape *') to parameter of type 'id' [-Wincompatible-pointer-types]
+o            [array addObject:shape];
+o                             ^~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:115:23: note: passing argument to parameter 'anObject' here
+o- (void)addObject:(id)anObject;
+o                      ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:13: error: unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?
+o            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];
+o            ^~~~~~~~~~~~~~~~~
+o            HIMutableShapeRef
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h:69:41: note: 'HIMutableShapeRef' declared here
+otypedef struct __HIShape*               HIMutableShapeRef;
+o                                        ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:40: error: use of undeclared identifier 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?
+o            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];
+o                                       ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:60: error: missing '[' at start of message send expression
+o            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];
+o                                                           ^
+o                                                           [
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:86: error: expected ']'
+o            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];
+o                                                                                     ^
+o/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:59: note: to match this '['
+o            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];
+o                                                          ^
+o4 warnings and 5 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.md78a3ed8c059b641^e52b85d8c059b641^-4195"/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:13: error: unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?            CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);            ^~~~~~~~~~~~~~~~~            HIMutableShapeRef/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h:69:41: note: 'HIMutableShapeRef' declared heretypedef struct __HIShape*               HIMutableShapeRef;                                        ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:39: warning: implicit declaration of function 'CFShapeCreateMutable' is invalid in C99 [-Wimplicit-function-declaration]            CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);                                      ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:18:31: warning: incompatible integer to pointer conversion initializing 'HIMutableShapeRef' (aka 'struct __HIShape *') with an expression of type 'int';             CFMutableShapeRef shape = CFShapeCreateMutable(0.0, 0.0, orientation);                              ^       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:19:13: warning: implicit declaration of function 'CFShapeShow' is invalid in C99 [-Wimplicit-function-declaration]            CFShapeShow(shape);            ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:20:30: warning: incompatible pointer types sending 'HIMutableShapeRef' (aka 'struct __HIShape *') to parameter of type 'id' [-Wincompatible-pointer-types]            [array addObject:shape];                             ^~~~~/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:115:23: note: passing argument to parameter 'anObject' here- (void)addObject:(id)anObject;                      ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:13: error: unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];            ^~~~~~~~~~~~~~~~~            HIMutableShapeRef/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h:69:41: note: 'HIMutableShapeRef' declared heretypedef struct __HIShape*               HIMutableShapeRef;                                        ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:40: error: use of undeclared identifier 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];                                       ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:60: error: missing '[' at start of message send expression            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];                                                           ^                                                           [/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:86: error: expected ']'            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];                                                                                     ^/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m:27:59: note: to match this '['            CFMutableShapeRef shape = (CFMutableShapeRef) [array objectAtIndex:index];                                                          ^4 warnings and 5 errors generated.9(36%IDEClangDiagnosticActivityLogMessage2@72"Unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?-374980824#18446744073709551615#0#1(2@33"'HIMutableShapeRef' declared here-374980824#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@220"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h0000000000000000^68#40#68#40#2001#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^17#12#17#12#391#0#14"Semantic Issue1(3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^17#12#17#29#391#17#-2@73"Implicit declaration of function 'CFShapeCreateMutable' is invalid in C99-374980824#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^17#38#17#38#417#0#14"Semantic Issue--2@137"Incompatible integer to pointer conversion initializing 'HIMutableShapeRef' (aka 'struct __HIShape *') with an expression of type 'int'; -374980824#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^17#30#17#30#409#0#14"Semantic Issue1(3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^17#38#17#81#417#42#-2@64"Implicit declaration of function 'CFShapeShow' is invalid in C99-374980824#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^18#12#18#12#474#0#14"Semantic Issue--2@107"Incompatible pointer types sending 'HIMutableShapeRef' (aka 'struct __HIShape *') to parameter of type 'id'-374980824#18446744073709551615#0#1(2@45"Passing argument to parameter 'anObject' here-374980824#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@179"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h0000000000000000^114#22#114#22#5139#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^19#29#19#29#523#0#14"Semantic Issue1(3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^19#29#19#34#523#0#-2@72"Unknown type name 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?-374980824#18446744073709551615#0#1(2@33"'HIMutableShapeRef' declared here-374980824#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@220"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/HIShape.h0000000000000000^68#40#68#40#2001#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#12#26#12#717#0#14"Semantic Issue1(3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#12#26#29#717#17#-2@83"Use of undeclared identifier 'CFMutableShapeRef'; did you mean 'HIMutableShapeRef'?-374980824#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#39#26#39#744#0#14"Semantic Issue--2@47"Missing '[' at start of message send expression-374980824#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#59#26#59#764#0#14"Semantic Issue1(3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#59#26#59#764#0#-2@12"Expected ']'-374980824#18446744073709551615#0#1(2@17"To match this '['-374980824#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#58#26#58#763#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^26#85#26#85#790#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@103"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m0000000000000000^3895"CompileC DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o CFShapeTester3/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug -include /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/main.m -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/Objects-normal/x86_64/main.o36"B15F0110-15BF-4B50-9E7F-889CA3050617-
+
+CLd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/CFShapeTester3 normal x86_64
+r0
+
+CProcessPCH /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth CFShapeTester3/CFShapeTester3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374980823.240740
+e374980824.236739
+r1
+xProcessPCH
+x/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth
+xCFShapeTester3/CFShapeTester3-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile CFShapeTester3/CFShapeTester3-Prefix.pchd3be3dd7c059b641^679a3cd8c059b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/CFShapeTester3-Prefix.pch0000000000000000^3852"ProcessPCH DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth CFShapeTester3/CFShapeTester3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-generated-files.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-own-target-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-all-target-headers.hmap -iquote /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/CFShapeTester3-project-headers.hmap -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/DerivedSources/x86_64 -I/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/Shapes.build/Debug/CFShapeTester3.build/DerivedSources -F/Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Products/Debug --serialize-diagnostics /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.dia -c /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/CFShapeTester3/CFShapeTester3-Prefix.pch -o /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.pth -MMD -MT dependencies -MF /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Build/Intermediates/PrecompiledHeaders/CFShapeTester3-Prefix-breutafdfzxkhqbqamqnonijtyho/CFShapeTester3-Prefix.pch.d36"4BC3FC3A-ED09-4CAA-BC8F-D8F0C435D389-
+
+CProcessPCH /Users/philip/Documents/Science/Talks/2012/2012-12-NSCoder/Shapes/DerivedData/Shapes/Index/PrecompiledHeaders/CFShapeTester3-Prefix-ehlhkzxivlhiibcyukkieqlihsgp_ast/CFShapeTester3-Prefix.pch.pth CFShapeTester3/CFShapeTester3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
